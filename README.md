@@ -1,5 +1,7 @@
 # EDA_Airbnb
 
+[Colab link](https://colab.research.google.com/drive/11SobuPeKop4fu5jCKhbQqvtAeX0063lL#scrollTo=B806d7dqV4R-)
+
 ## Introduction of Airbnb
 Airbnb is a popular online platform that allows individuals to list, discover, and book unique accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk, and has since become the largest and most successful home-sharing companies in the world.
 
